@@ -7,6 +7,8 @@ Last week, I attended the Data Sciecne Club openning meeting-- it was fun.
 
 __I AM ~~kinda~~ VERY EXCITED__
 
+__underscore__ is italic 
+
 ... Three dots 
 
 .. two dots 
